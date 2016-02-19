@@ -6,7 +6,7 @@
 	<title>MAI XXI - Consultores en Ingeniería del Mantenimiento</title>
 </head>
 <body>
-	<center><div>
+	<center><div id="present">
 		<h3 class='title'>M.A.I. XXI Ltda.<br><br>MANTENIMIENTO - ADMINISTRACION - INGENIERIA</h3>
 		<p>Torres del paine poniente 2489, peñalolen, email: maixxi@manquehue.net<br>Fono / Fax 56 - 2 - 7588517, Santiago, Chile</p>
 		<h3 class='title'>M.A.I XXI LTDA.</h3><br><br>
@@ -47,7 +47,7 @@
 	</ul>
 	<hr>
 	<!-- CUARTO CUADRO -->
-	<h3>Empresas clientes</h3>
+	<h3 id="clientes">Empresas clientes</h3>
 	<p>Realización de seminarios cerraods:</p>
 	<ul>
 		<li>Empresa eléctrica Colbún Machicura.</li>
