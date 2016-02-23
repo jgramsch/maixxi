@@ -2,20 +2,20 @@
 <html>
 <head>
 	<Meta charset="utf-8">
-	<link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet">
-	<link href='Maixxi_consultorias.css' type='text/css' rel='stylesheet'>
 	<title>MAI XXI - Consultores en Ingeniería del Mantenimiento</title>
+	<?php include '../head.php' ?>
 	<style type="text/css">
-		center {
+		.center {
 			width: 70%;
-			text-align: center;
+			text-align: ;
 		}
 	</style>
 
 </head>
-<body>
-<?php Include 'header.php'; ?>
-<div class='center'>
+<body class='cuerpo'>
+<?php Include '../cabecera1.php'; ?>
+<?php Include '../menu.php' ?>
+<div class='container'>
 	<div><center>
 	<h3 class='titulo'>TEMAS DE MEJORAMIENTO <br>EN<br>GESTION DEL MANTENIMIENTO</h3>
 	<h4>(RECOMENDADOS PARA SER TOMADOS EN CUENTA EN PROGRAMAS DE MODERNIZACION DE LA FUNCION MANTENIMIENTO)</h4>
@@ -32,7 +32,7 @@
 	</ol>
 	<h4>Etapa de operación</h4>
 	<ol>
-		<li><a href="">Auditoría de mantenimiento</a>, benchmarking, diagnóstico e identificación de oportunidades y puntos de mejoramiento</li>
+		<li><a href="Maixxi_auditoria_de_mantenimiento.php" target='popup'onClick="window.open(this.href, this.target, 'width=400,height=450'); return false;">Auditoría de mantenimiento</a>, benchmarking, diagnóstico e identificación de oportunidades y puntos de mejoramiento</li>
 		<li>Sistema de administración del Mantenimiento (SADEM):
 			<ul>
 				<li>Desarrollo o mejoramiento del sistema existente. Definición del modelo estratégico y sus procedimientos administrativos.</li>
@@ -70,5 +70,6 @@
 		</li>
 	</ol>
 </div>
+<?php Include '/../futer.php' ?>
 </body>
 </html>

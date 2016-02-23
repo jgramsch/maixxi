@@ -3,7 +3,7 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-lg-4">
-						<img src="logoent.gif" alt="Logo M.A.I.XXI" style="width:304px;height:228px;">
+						<img src="../logo.jpeg" alt="Logo M.A.I.XXI" style="width:304px;height:228px;">
 				</div>
 				<div class="col-lg-6">
 					<br>

@@ -1,0 +1,23 @@
+
+
+/*DOCUMENTO CSS GENERAL PARA TODAS LAS PAGINAS */
+
+	.jumbotron{
+		background-color: #ccff99;
+
+	}
+	.cuerpo{
+		background-color: #CECECE;
+	}
+.blue {
+	color:#000099;
+	font-style: bold;
+	font-family: Arial;
+	text-align: left;
+}
+
+.tabla {
+	width: 80%;
+	border-collapse: collapse;
+	border-color: black;
+	}

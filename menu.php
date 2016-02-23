@@ -6,11 +6,12 @@
 		      		Principal <span class="caret"></span>
 		    	</a>
 		    	<ul class="dropdown-menu">
-		      	<li><a href="#present" class="active">Presentación</a></li>
-		      	<li><a href="#clientes" >Clientes</a></li>
-		      	<li><a href="#cursos" >Cursos</a></li>
-		    	<li><a href="#consultorias" >Consultorias</a></li>
-		    	<li><a href="#servicios" >Servicios</a></li>
+		      	<li><a href="../inicio/presentacion.php" >Presentación</a></li>
+		      	<li><a href="../inicio/presentacion.php#servicios" >Servicios</a></li>
+		      	<li><a href="../inicio/presentacion.php#clientes" >Clientes</a></li>
+		      	<li><a href="../Cursos/Cursos.php" >Cursos</a></li>
+		    	<li><a href="../Consultorias/consultorias.php" >Consultorias</a></li>
+		    	
 		    	</ul>
 		    </li>
 			<li role="presentation" class="dropdown">

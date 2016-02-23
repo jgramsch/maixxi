@@ -1,0 +1,1 @@
+- Lista de clientes, Hacer como una tabla con los logos en vez de los nombres solamente
