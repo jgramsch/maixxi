@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset='utf-8'>
+	<?php include '../head.php' ?>
+</head>
+<body classs='cuerpo'>
+	<?php include '../cabecera1.php' ?>
+	<?php include '../menu.php' ?>
+	<!-- contenido antes del footer-->
+	<?php include '../futer.php' ?>
+</body>
+</html>
