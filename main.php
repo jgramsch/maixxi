@@ -23,6 +23,5 @@
 	<?php include "futer.php" ?>	
 	<!-- Latest compiled and minified JavaScript -->
 	
-<script src="externos/bootstrap.min.js"></script>
 </body>	
 </html>
