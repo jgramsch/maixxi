@@ -8,6 +8,7 @@
 	<?php include '../cabecera1.php' ?>
 	<?php include '../menu.php' ?>
 	<!-- Contenido-->
+	<div class="container">
 	<img src="../Modelo_gestion2.png" alt="Modelo Gestion" usemap="#linkspower">
 
 	<map name="linkspower">
@@ -23,7 +24,7 @@
   		<area shape="rect" coords="1184,394,1428,482" href="#areamanten" alt="AreaMantenimiento">
   		<area shape="rect" coords="1008,568,1222,674" href="#stockdecom" alt="stockreparable">
 	</map>
-
+	</div>
 	<?php include '../Powers/1inversion en equipos.php' ?>
 	<?php include '../Powers/1disponibilidad.php' ?>
 	<?php include '../Powers/1Equipos de reserva.php' ?>
