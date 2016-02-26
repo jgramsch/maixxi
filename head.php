@@ -21,3 +21,4 @@
 	});
 	
 	</script>
+	<script src="externos/bootstrap.min.js"></script>
