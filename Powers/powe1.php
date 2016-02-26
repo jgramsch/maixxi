@@ -8,7 +8,7 @@
 	<?php include '../cabecera1.php' ?>
 	<?php include '../menu.php' ?>
 	<!-- Contenido-->
-	<img src="../Modelo_gestion.png" alt="Modelo Gestion" usemap="#linkspower">
+	<img src="../Modelo_gestion2.png" alt="Modelo Gestion" usemap="#linkspower">
 
 	<map name="linkspower">
   		<area shape="rect" coords="18,226,232,340" href="#edereserva" alt="Edereserva">
@@ -22,7 +22,11 @@
   		<area shape="rect" coords="1308,148,1530,274" href="#stock" alt="stockderepuestos">
   		<area shape="rect" coords="1184,394,1428,482" href="#areamanten" alt="AreaMantenimiento">
   		<area shape="rect" coords="1008,568,1222,674" href="#stockdecom" alt="stockreparable">
-	</map> 
+	</map>
+	<div class="container">
+		<?php include '../Powers/1inversion en equipos.php' ?>
+		
+	</div> 
 	<!-- contenido antes del footer-->
 	<?php include '../futer.php' ?>
 </body>
