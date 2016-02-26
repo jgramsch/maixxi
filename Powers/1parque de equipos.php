@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" id='parque'>
 	<hr>
 	<h2>Parque de equipo necesario para la producción</h2>
 	<h3>Es la cantidad de equipo, maquinaria e instalaciones que requiere el negocio para su eficaz funcionamiento.</h3>

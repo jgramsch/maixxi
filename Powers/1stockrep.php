@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" id='stock'>
 	<hr>
 	<h2>Stock de repuestos</h2>
 	<h3>Cantidad, Calidad y Oportunidad</h3>

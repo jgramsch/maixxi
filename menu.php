@@ -1,7 +1,7 @@
 <header>
 	<div class="container">
 		<ul class="nav nav-pills nav-justified">
-			<li role="presentation" class="dropdown active">
+			<li role="presentation" class="dropdown">
 		    	<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
 		      		Principal <span class="caret"></span>
 		    	</a>
@@ -19,7 +19,7 @@
 		      		Servicios de apoyo a su gestión<span class="caret"></span>
 		    	</a>
 		    	<ul class="dropdown-menu">
-		      		<li><a href="#power1" >Modelo de Gestión del mantenimineto</a></li>
+		      		<li><a href="../powers/powe1.php" >Modelo de Gestión del mantenimineto</a></li>
 		      		<li><a href="#power2" >Modelo para el mejoramiento de la gestión</a></li>
 		    	</ul>
 		    </li>
