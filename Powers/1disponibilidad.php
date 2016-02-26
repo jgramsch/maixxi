@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" id='disponibilidad'>
 	<hr>
 	<h2>Disponibilidad</h2>
 	<br>

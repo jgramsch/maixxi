@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" id='inversionreemplazo'>
 	<hr>
 	<h2>Inversión en equipos de reemplazo</h2>
 	<h3>Rentabilidad, Tasa de descuento, Politicas de reemplazo, Overhaul, Costo creciente</h3>

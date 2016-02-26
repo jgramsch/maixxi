@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang='en'>
+<html>
 <head>
 	<Meta charset="utf-8">
 	<title>MAI XXI - Consultores en Ingeniería del Mantenimiento</title>
@@ -123,7 +123,6 @@
 	<p class='socio'>Juan Pablo Gramsch Labra:</p><p> Arquitecto, Universidad Católica de Chile. Licencia en Ciencias Sociales, Programa de Economía del Trabajo (PET) de la Academia de Humanismo Cristiano, Chile y Universidad Católica de Louvain (UCL) Bélgica; DEA en Sciences Appliquées Université Catholique de Louvain (Habitat Rural y Urbano en Países en Desarrollo) Bélgica.</p>
 	</div>
 	<?php include "../futer.php" ?>
-	<!-- Latest compiled and minified JavaScript -->
 	
 
 </body>

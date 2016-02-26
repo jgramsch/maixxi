@@ -2,9 +2,26 @@
 <html>
 <head>
 	<meta charset='utf-8'>
+	<title>MAI XXI - Consultores en Ingeniería del Mantenimiento</title>
 	<?php include '../head.php' ?>
+	<script>
+	  $(function() {
+	    $('area[href*="#"]:not([href="#"])').click(function() {
+	      if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+	        var target = $(this.hash);
+	        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	        if (target.length) {
+	          $('html, body').animate({
+	            scrollTop: target.offset().top
+	          }, 1000);
+	          return false;
+	        }
+	      }
+	    });
+	  });
+	</script>
 </head>
-<body classs='cuerpo'>
+<body class='cuerpo'>
 	<?php include '../cabecera1.php' ?>
 	<?php include '../menu.php' ?>
 	<!-- Contenido-->
@@ -29,11 +46,10 @@
 	<?php include '../Powers/1disponibilidad.php' ?>
 	<?php include '../Powers/1Equipos de reserva.php' ?>
 	<?php include '../Powers/1parque de equipos.php' ?>
-	<?php include '../Powers/1politicasdem.php' ?>
+	<?php include '../Powers/politicasdem.php' ?>
 	<?php include '../Powers/1prevderiesgos.php' ?>
 	<?php include '../Powers/1stockrep.php' ?>
 	<?php include '../Powers/Mantenibilidad.php' ?>
-	<?php include '../Powers/politicasdem.php' ?>
 	<!-- contenido antes del footer-->
 	<?php include '../futer.php' ?>
 </body>

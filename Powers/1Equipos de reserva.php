@@ -1,4 +1,4 @@
-<div>
+<div class='container' id='edereserva'>
 	<hr>
 	<h2>Equipos de reserva</h2>
 	<h3>Cantidad y ubicación</h3>
