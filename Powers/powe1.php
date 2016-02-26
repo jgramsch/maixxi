@@ -23,10 +23,16 @@
   		<area shape="rect" coords="1184,394,1428,482" href="#areamanten" alt="AreaMantenimiento">
   		<area shape="rect" coords="1008,568,1222,674" href="#stockdecom" alt="stockreparable">
 	</map>
-	<div class="container">
-		<?php include '../Powers/1inversion en equipos.php' ?>
-		
-	</div> 
+
+	<?php include '../Powers/1inversion en equipos.php' ?>
+	<?php include '../Powers/1disponibilidad.php' ?>
+	<?php include '../Powers/1Equipos de reserva.php' ?>
+	<?php include '../Powers/1parque de equipos.php' ?>
+	<?php include '../Powers/1politicasdem.php' ?>
+	<?php include '../Powers/1prevderiesgos.php' ?>
+	<?php include '../Powers/1stockrep.php' ?>
+	<?php include '../Powers/Mantenibilidad.php' ?>
+	<?php include '../Powers/politicasdem.php' ?>
 	<!-- contenido antes del footer-->
 	<?php include '../futer.php' ?>
 </body>
