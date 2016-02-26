@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<Meta charset="utf-8">
-	<link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet">
-	<script type="text/javascript" src="latexit.js"></script>
-	<title>Inversión en equipos de reemplazo</title>
-</head>
-<body>
+<div class="container">
 	<hr>
 	<h2>Inversión en equipos de reemplazo</h2>
 	<h3>Rentabilidad, Tasa de descuento, Politicas de reemplazo, Overhaul, Costo creciente</h3>
@@ -32,5 +24,4 @@
 	<div lang="latex">
 		K_{n+1}-K_n>0 \land K_{n+1}-K_n>0
 	</div>
-</body>
-</html>
+</div>
